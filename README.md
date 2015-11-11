@@ -1,5 +1,7 @@
 # angular-enum
 
+[![Build Status](https://travis-ci.org/JohnyNogueira/angular-enum.svg)](https://travis-ci.org/JohnyNogueira/angular-enum)
+
 This is a directive to use enum bitwise operations in to checkbox.
 
 ## Usage:
